@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+#pt {
+    width: 864px;
+    height: 864px;
+    margin: 0 auto 0;
+}
